@@ -130,3 +130,10 @@ dmypy.json
 
 # vs code settings file
 .vscode
+
+# working directories
+log
+
+# data
+test_data
+extracted_data
